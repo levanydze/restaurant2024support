@@ -30,7 +30,7 @@
     "newItem": true,
     "price": "5.85",
     "breakfast": false,
-    "lunch": true,
+    "lunch": false,
     "dinner": true,
     "dessert": true,
     "drink": false
