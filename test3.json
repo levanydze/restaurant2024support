@@ -32,7 +32,7 @@
     "breakfast": false,
     "lunch": true,
     "dinner": false,
-    "dessert": false,
+    "dessert": true,
     "drink": false
   },
   {
