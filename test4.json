@@ -13,7 +13,7 @@
     "price": "5.85",
     "breakfast": true,
     "lunch": false,
-    "dinner": false,
+    "dinner": true,
     "dessert": false,
     "drink": false
   },
@@ -31,7 +31,7 @@
     "price": "5.85",
     "breakfast": false,
     "lunch": true,
-    "dinner": false,
+    "dinner": true,
     "dessert": true,
     "drink": false
   },
@@ -85,7 +85,7 @@
     "price": "5.85",
     "breakfast": true,
     "lunch": false,
-    "dinner": false,
+    "dinner": true,
     "dessert": false,
     "drink": true
   },
