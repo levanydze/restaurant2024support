@@ -1,0 +1,159 @@
+{
+  "menu": [
+    {
+      "category": "breakfast",
+      "items": [
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        },
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        }
+      ]
+    },
+    {
+      "category": "lunch",
+      "items": [
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        },
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        }
+      ]
+    },
+    {
+      "category": "dinner",
+      "items": [
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        },
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        }
+      ]
+    },
+    {
+      "category": "desserts",
+      "items": [
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        },
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        }
+      ]
+    },
+    {
+      "category": "drinks",
+      "items": [
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        },
+        {
+          "id": "1",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/highResolution/olivOilandCake.jpg?raw=true",
+          "name": "ORGANIC GRANOLA PARFAITS",
+          "ingredients": "Organic Granola, Yogurt, Fruits, Fresh Berries",
+          "poertions": "250g / 300g",
+          "speacial": true,
+          "season": true,
+          "vegetarian": true,
+          "spicy": true,
+          "new": true,
+          "price": "5.85"
+        }
+      ]
+    }
+  ]
+}
