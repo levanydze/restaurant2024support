@@ -12,7 +12,7 @@
     "newItem": true,
     "price": "5.85",
     "breakfast": true,
-    "lunch": false,
+    "lunch": true,
     "dinner": true,
     "dessert": false,
     "drink": false
@@ -30,7 +30,7 @@
     "newItem": true,
     "price": "5.85",
     "breakfast": false,
-    "lunch": false,
+    "lunch": true,
     "dinner": true,
     "dessert": true,
     "drink": false
@@ -48,7 +48,7 @@
     "newItem": true,
     "price": "5.85",
     "breakfast": true,
-    "lunch": false,
+    "lunch": true,
     "dinner": false,
     "dessert": false,
     "drink": true
@@ -102,7 +102,7 @@
     "newItem": true,
     "price": "5.85",
     "breakfast": true,
-    "lunch": false,
+    "lunch": true,
     "dinner": false,
     "dessert": true,
     "drink": true
