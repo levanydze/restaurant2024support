@@ -378,24 +378,7 @@
     "dessert": false,
     "drink": true
   },
-  {
-    "id": 22,
-    "image": "https://raw.githubusercontent.com/levanydze/restaurant2024support/main/menuImages/lunch/bozbashi.webp",
-    "name": "Bozbashi",
-    "ingredients": "Beer Soup",
-    "portions": "350g / 450g",
-    "special": true,
-    "season": false,
-    "vegan": false,
-    "spicy": true,
-    "newItem": true,
-    "price": "190",
-    "breakfast": false,
-    "lunch": true,
-    "dinner": false,
-    "dessert": false,
-    "drink": false
-  },
+ 
   {
     "id": 23,
     "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/lunch/chikhirtma.jpeg?raw=true",
