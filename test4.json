@@ -179,24 +179,7 @@
     "dessert": false,
     "drink": false
   },
-  {
-    "id": 11,
-    "image": "https://raw.githubusercontent.com/levanydze/restaurant2024support/main/menuImages/dinner/imeruli.webp",
-    "name": "Imeruli Khachapuri",
-    "ingredients": "Bread, Egg, Butter, Cheese",
-    "portions": "450g / 650g",
-    "special": true,
-    "season": false,
-    "vegan": true,
-    "spicy": false,
-    "newItem": false,
-    "price": "169",
-    "breakfast": false,
-    "lunch": true,
-    "dinner": true,
-    "dessert": false,
-    "drink": false
-  },
+ 
   {
     "id": 12,
     "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dinner/khachapuri.jpeg?raw=true",
