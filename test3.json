@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/breakfast/blins.jpeg?raw=true",
     "name": "Soft Cakes",
     "ingredients": "Cakes with honey, strawbery and chocolade",
@@ -377,24 +377,7 @@
     "dessert": false,
     "drink": true
   },
-  {
-    "id": 21,
-    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/drink/krusovice.jpeg?raw=true",
-    "name": "Krusovice",
-    "ingredients": "Beer",
-    "portions": "30ml / 50ml",
-    "special": false,
-    "season": false,
-    "vegan": false,
-    "spicy": false,
-    "newItem": false,
-    "price": "90",
-    "breakfast": false,
-    "lunch": false,
-    "dinner": false,
-    "dessert": false,
-    "drink": true
-  },
+
   {
     "id": 22,
     "image": "https://raw.githubusercontent.com/levanydze/restaurant2024support/main/menuImages/lunch/bozbashi.webp",
