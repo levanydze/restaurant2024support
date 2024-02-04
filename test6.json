@@ -478,5 +478,24 @@
     "dessert": false,
     "drink": false,
   "pizza":true
+  },
+  {
+    "id": 17,
+    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dinner/pizza.jpeg?raw=true",
+    "name": "Salami Pizza",
+    "description": "Savor the spicy flavors of salami pizza, topped with bread, cheese, and moScrambled eggs served with ketchup, onion, and beef sausageScrambled eggs served with ketchup, onion, and beef sausageScrambled eggs served with ketchup, onion, and beef sausagere.",
+    "ingredients": "Salami, Bread, Cheese, etc..",
+    "portions": "300 / 400g",
+    "special": false,
+    "season": false,
+    "vegan": false,
+    "spicy": true,
+    "newItem": false,
+    "price": "159",
+    "breakfast": false,
+    "lunch": true,
+    "dinner": true,
+    "dessert": false,
+    "drink": false
   }
 ]
