@@ -493,9 +493,10 @@
     "newItem": false,
     "price": "159",
     "breakfast": false,
-    "lunch": true,
-    "dinner": true,
+    "lunch": false,
+    "dinner": false,
     "dessert": false,
-    "drink": false
+    "drink": false,
+    "pizza": true
   }
 ]
