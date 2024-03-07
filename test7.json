@@ -267,7 +267,7 @@
   },
   {
     "id": "15",
-    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dinner/pizza.jpeg?raw=true",
+    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/pizza/pizza1.png?raw=true",
     "name": "Salami Pizza",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto optio harum repellat corrupti adipisci eum dolorum veritatis molestias nemo esse quo, illo excepturi aperiam nesciunt libero officia nisi eius sed!Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto optio harum repellat corrupti adipisci eum dolorum veritatis molestias nemo esse quo, illo excepturi aperiam nesciunt libero officia nisi eius sed!",
     "ingredients": "crushed San Marzano tomato sauce, fresh mozzarella and basil, a drizzle of olive oil, and a sprinkle of salt. That is all",
@@ -421,7 +421,7 @@
 
   {
     "id": "24",
-    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/pizza/bascoiola.jpeg?raw=true",
+    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/pizza/pizza2.png?raw=true",
     "name": "Pizza Bascoiola",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto optio harum repellat corrupti adipisci eum dolorum veritatis molestias nemo esse quo, illo excepturi aperiam nesciunt libero officia nisi eius sed!Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto optio harum repellat corrupti adipisci eum dolorum veritatis molestias nemo esse quo, illo excepturi aperiam nesciunt libero officia nisi eius sed!",
     "ingredients": "crushed San Marzano tomato sauce, fresh mozzarella and basil, a drizzle of olive oil, and a sprinkle of salt. That is all",
@@ -441,7 +441,7 @@
   },
   {
     "id": "25",
-    "image": "https://raw.githubusercontent.com/levanydze/restaurant2024support/main/menuImages/pizza/napolitana.avif",
+    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/pizza/pizza3.png?raw=true",
     "name": "Pizza Napolitana",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto optio harum repellat corrupti adipisci eum dolorum veritatis molestias nemo esse quo, illo excepturi aperiam nesciunt libero officia nisi eius sed!Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto optio harum repellat corrupti adipisci eum dolorum veritatis molestias nemo esse quo, illo excepturi aperiam nesciunt libero officia nisi eius sed!",
     "ingredients": "crushed San Marzano tomato sauce, fresh mozzarella and basil, a drizzle of olive oil, and a sprinkle of salt. That is all",
