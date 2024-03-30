@@ -24,7 +24,7 @@
   },
   {
     "name": "Niniko AB",
-    "company": "Ninachkaab",
+    "company": "ninachkaab",
     "email": ["nini.lataria10@gmail.com"],
     "categories": [
       { "value": "coffee", "label": "Coffee", "sort": 1 },
