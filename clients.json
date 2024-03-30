@@ -8,8 +8,8 @@
       { "value": "dessert", "label": "Dessert" },
       { "value": "lunch", "label": "Lunch" },
       { "value": "dinner", "label": "Dinner" },
+      { "value": "special", "label": "Special" },
       { "value": "drinks", "label": "Drinks" },
-      { "value": "special", "label": "Special" }
     ]
   },
   {
