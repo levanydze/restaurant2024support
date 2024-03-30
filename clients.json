@@ -21,5 +21,15 @@
       { "value": "sushi", "label": "Sushi", "sort":2 },
       { "value": "seafood", "label": "Sea Food", "sort":3 }
     ]
+  },
+  {
+    "name": "Niniko AB",
+    "company": "Ninachkaab",
+    "email": ["nini.lataria10@gmail.com"],
+    "categories": [
+      { "value": "coffee", "label": "Coffee","sort":1 },
+      { "value": "chocolates", "label": "Chocolates", "sort":2 },
+      { "value": "tea", "label": "Tea", "sort":3 }
+    ]
   }
 ]
