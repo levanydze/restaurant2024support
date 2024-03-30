@@ -4,11 +4,11 @@
     "company": "chachaab",
     "email": ["artoflevanidze@gmail.com"],
     "categories": [
-      { "value": "breakfast", "label": "Breakfast", "sort":1 },
-      { "value": "dessert", "label": "Dessert", "sort":2 },
-      { "value": "lunch", "label": "Lunch", "sort":3 },
-      { "value": "dinner", "label": "Dinner", "sort":4 },
-      { "value": "special", "label": "Special", "sort":6 },
+      { "value": "breakfast", "label": "Breakfast", "sort":2 },
+      { "value": "dessert", "label": "Dessert", "sort":3 },
+      { "value": "lunch", "label": "Lunch", "sort":4 },
+      { "value": "dinner", "label": "Dinner", "sort":5 },
+      { "value": "special", "label": "Special", "sort":1 },
       { "value": "drinks", "label": "Drinks", "sort":7 }
     ]
   },
