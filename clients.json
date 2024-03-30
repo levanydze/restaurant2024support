@@ -4,12 +4,12 @@
     "company": "chachaab",
     "email": ["artoflevanidze@gmail.com"],
     "categories": [
-      { "value": "breakfast", "label": "Breakfast", "sort":2 },
-      { "value": "dessert", "label": "Dessert", "sort":3 },
-      { "value": "lunch", "label": "Lunch", "sort":4 },
-      { "value": "dinner", "label": "Dinner", "sort":5 },
-      { "value": "special", "label": "Special", "sort":1 },
-      { "value": "drinks", "label": "Drinks", "sort":7 }
+      { "value": "breakfast", "label": "Breakfast", "sort": 2 },
+      { "value": "dessert", "label": "Dessert", "sort": 3 },
+      { "value": "lunch", "label": "Lunch", "sort": 4 },
+      { "value": "dinner", "label": "Dinner", "sort": 5 },
+      { "value": "special", "label": "Special", "sort": 1 },
+      { "value": "drinks", "label": "Drinks", "sort": 7 }
     ]
   },
   {
@@ -17,9 +17,9 @@
     "company": "otherab",
     "email": ["levanydze@gmail.com"],
     "categories": [
-      { "value": "breakfast", "label": "Breakfast","sort":1 },
-      { "value": "sushi", "label": "Sushi", "sort":2 },
-      { "value": "seafood", "label": "Sea Food", "sort":3 }
+      { "value": "breakfast", "label": "Breakfast", "sort": 1 },
+      { "value": "sushi", "label": "Sushi", "sort": 2 },
+      { "value": "seafood", "label": "Sea Food", "sort": 3 }
     ]
   },
   {
@@ -27,9 +27,9 @@
     "company": "Ninachkaab",
     "email": ["nini.lataria10@gmail.com"],
     "categories": [
-      { "value": "coffee", "label": "Coffee","sort":1 },
-      { "value": "chocolates", "label": "Chocolates", "sort":2 },
-      { "value": "tea", "label": "Tea", "sort":3 }
+      { "value": "coffee", "label": "Coffee", "sort": 1 },
+      { "value": "chocolates", "label": "Chocolates", "sort": 2 },
+      { "value": "tea", "label": "Tea", "sort": 3 }
     ]
   }
 ]
