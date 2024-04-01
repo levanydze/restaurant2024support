@@ -10,7 +10,7 @@
       { "value": "dinner", "label": "Dinner", "sort": 5 },
       { "value": "hot", "label": "Hot", "sort": 5 },
       { "value": "special", "label": "Special", "sort": 1 },
-      { "value": "commonly ordered", "label": "Commonly Ordered", "sort": 1 },
+      { "value": "commonly ordered", "label": "Commonly ones", "sort": 1 },
       { "value": "drinks", "label": "Drinks", "sort": 7 }
     ]
   },
